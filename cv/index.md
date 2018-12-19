@@ -4,12 +4,12 @@ title: "Currículo"
 date: 2018-12-19 13:25
 ---
 
-Table:
+###Table:
 
 1. Summary
 3. Curriculum
 
-### 1 BIO
+### 1. BIO
 
 I have solid experience in production with container environment using DOCKER, container orchestration with KUBERNETES and SWARM, PaaS with OPENSHIFT ENTERPRISE and ORIGIN, indexing and visualization of LOGS with EFK and ELK, monitoring, metrics and alerts with PROMETHEUS, CI / CD with JENKINS , NEXUS and SONARQUBE, application servers and middleware APACHE HTTPD, APACHE TOMCAT, JBOSS, application server monitoring with Dynatrace, NGINX reverse proxy systems, HAPROXY, DNS service with BIND and DNSMASQ, MYSQL databases, POSTGRESQL, MONGODB , ORACLE, configuration management and provisioning with PUPPET, ANSIBLE and FOREMAN, version control with GIT, creation of virtualized environments with VAGRANT and PACKER. 
 
@@ -34,40 +34,40 @@ LinkedIN: http://br.linkedin.com/in/edgarsilva948<br>
 
 ##### 3.1.1 Technical Support (Drogarias Pacheco São Paulo)
 2012 - 2016<br>
-- Installation and configuration of internal software of the company;
-- VOIP telephone system;
-- Management of users in Active Directory (Windows Server 2012 R2);
-- Participation in the implementation of the PCI domain for DPSP S.A;
-- Participation in the implementation of Vlan's (Cisco) in the internal infrastructure of the company.
+ Installation and configuration of internal software of the company;
+ VOIP telephone system;
+ Management of users in Active Directory (Windows Server 2012 R2);
+ Participation in the implementation of the PCI domain for DPSP S.A;
+ Participation in the implementation of Vlan's (Cisco) in the internal infrastructure of the company.
 
 ##### 3.1.2 Telecommunications Analyst (Flexus Soluções)
 2016 - 2016<br>
-- Linux Servers PBXIP (CentOS);
-- Managing web applications in PHP from PBX (Elastix, SNEP, Others);
-- Apache/Nginx Web servers;
-- MySQL database;
-- Implementation of Xen Server on clients for VMs (PBXIP);
-- Monitoring with STG and Zabbix;
-- Working from Pfsense and IPTables firewall. 
+ Linux Servers PBXIP (CentOS);
+ Managing web applications in PHP from PBX (Elastix, SNEP, Others);
+ Apache/Nginx Web servers;
+ MySQL database;
+ Implementation of Xen Server on clients for VMs (PBXIP);
+ Monitoring with STG and Zabbix;
+ Working from Pfsense and IPTables firewall. 
 
 ##### 3.1.3 Infrastructure Analyst DevOps (4Linux Open Software Specialists)
 2016 - 2017<br>
-- 100% Focused on projects FOSS (Free and Open Source Software);
-- Working with Infrastructure automation projects using Foreman, Ovirt, Puppet, Ansible and GitLab;
-- Deploying solutions for DevOps environments (Docker, Puppet, Ansible, Git, Jenkins and Rundeck);
-- Working with development in Python and NoSQL database (MongoDB);
-- Acting as an instructor, teaching DevOps courses, Linux and various Open Source solutions.
+ 100% Focused on projects FOSS (Free and Open Source Software);
+ Working with Infrastructure automation projects using Foreman, Ovirt, Puppet, Ansible and GitLab;
+ Deploying solutions for DevOps environments (Docker, Puppet, Ansible, Git, Jenkins and Rundeck);
+ Working with development in Python and NoSQL database (MongoDB);
+ Acting as an instructor, teaching DevOps courses, Linux and various Open Source solutions.
 
 ##### 3.1.4 DevOps Engineer (Alelo)
 2017 - 2018<br>
-- Heterogeneous platforms (Intel and RISC);
-- Linux, AIX and Windows operating systems;
-- IBM (Websphere Liberty - MQ Series and IBM Broker), Jboss, Virtualization supported by VMware;
-- Configuration Management with Puppet;
-- High availability of containers using Docker and Kubernetes;
-- Openshift as PaaS solution;
-- Cloud Platforms (AWS, Azure, IBM Cloud);
-- Monitoring with Zabbix and Dynatrace.
+ Heterogeneous platforms (Intel and RISC);
+ Linux, AIX and Windows operating systems;
+ IBM (Websphere Liberty  MQ Series and IBM Broker), Jboss, Virtualization supported by VMware;
+ Configuration Management with Puppet;
+ High availability of containers using Docker and Kubernetes;
+ Openshift as PaaS solution;
+ Cloud Platforms (AWS, Azure, IBM Cloud);
+ Monitoring with Zabbix and Dynatrace.
 
 ##### 3.1.5 Cloud Consultant (Red Hat)
 2018 - Present<br>
