@@ -4,7 +4,7 @@ title: "Currículo"
 date: 2018-12-19 13:25
 ---
 
-###Table:
+### Table
 
 1. Summary
 3. Curriculum
@@ -23,6 +23,7 @@ edgarsilva948@gmail.com (main)<br>
 edgarsilva948@icloud.com<br>
 edgarsilva948@outlook.com<br>
 
+
 Social Networks:
 
 Skype: edgarsilva948<br>
@@ -30,50 +31,50 @@ Twitter: @edgarsilva948<br>
 Github: http://github.com/edgarsilva948<br>
 LinkedIN: http://br.linkedin.com/in/edgarsilva948<br>
 
-### 3.1 EXPERIENCE
+### 2.1 EXPERIENCE
 
-##### 3.1.1 Technical Support (Drogarias Pacheco São Paulo)
+#### 2.1.1 Technical Support (Drogarias Pacheco São Paulo)
 2012 - 2016<br>
- Installation and configuration of internal software of the company;
- VOIP telephone system;
- Management of users in Active Directory (Windows Server 2012 R2);
- Participation in the implementation of the PCI domain for DPSP S.A;
- Participation in the implementation of Vlan's (Cisco) in the internal infrastructure of the company.
+ - Installation and configuration of internal software of the company;
+ - VOIP telephone system;
+ - Management of users in Active Directory (Windows Server 2012 R2);
+ - Participation in the implementation of the PCI domain for DPSP S.A;
+ - Participation in the implementation of Vlan's (Cisco) in the internal infrastructure of the company.
 
-##### 3.1.2 Telecommunications Analyst (Flexus Soluções)
+##### 2.1.2 Telecommunications Analyst (Flexus Soluções)
 2016 - 2016<br>
- Linux Servers PBXIP (CentOS);
- Managing web applications in PHP from PBX (Elastix, SNEP, Others);
- Apache/Nginx Web servers;
- MySQL database;
- Implementation of Xen Server on clients for VMs (PBXIP);
- Monitoring with STG and Zabbix;
- Working from Pfsense and IPTables firewall. 
+ - Linux Servers PBXIP (CentOS);
+ - Managing web applications in PHP from PBX (Elastix, SNEP, Others);
+ - Apache/Nginx Web servers;
+ - MySQL database;
+ - Implementation of Xen Server on clients for VMs (PBXIP);
+ - Monitoring with STG and Zabbix;
+ - Working from Pfsense and IPTables firewall. 
 
-##### 3.1.3 Infrastructure Analyst DevOps (4Linux Open Software Specialists)
+##### 2.1.3 Infrastructure Analyst DevOps (4Linux Open Software Specialists)
 2016 - 2017<br>
- 100% Focused on projects FOSS (Free and Open Source Software);
- Working with Infrastructure automation projects using Foreman, Ovirt, Puppet, Ansible and GitLab;
- Deploying solutions for DevOps environments (Docker, Puppet, Ansible, Git, Jenkins and Rundeck);
- Working with development in Python and NoSQL database (MongoDB);
- Acting as an instructor, teaching DevOps courses, Linux and various Open Source solutions.
+ - 100% Focused on projects FOSS (Free and Open Source Software);
+ - Working with Infrastructure automation projects using Foreman, Ovirt, Puppet, Ansible and GitLab;
+ - Deploying solutions for DevOps environments (Docker, Puppet, Ansible, Git, Jenkins and Rundeck);
+ - Working with development in Python and NoSQL database (MongoDB);
+ - Acting as an instructor, teaching DevOps courses, Linux and various Open Source solutions.
 
-##### 3.1.4 DevOps Engineer (Alelo)
+##### 2.1.4 DevOps Engineer (Alelo)
 2017 - 2018<br>
- Heterogeneous platforms (Intel and RISC);
- Linux, AIX and Windows operating systems;
- IBM (Websphere Liberty  MQ Series and IBM Broker), Jboss, Virtualization supported by VMware;
- Configuration Management with Puppet;
- High availability of containers using Docker and Kubernetes;
- Openshift as PaaS solution;
- Cloud Platforms (AWS, Azure, IBM Cloud);
- Monitoring with Zabbix and Dynatrace.
+ - Heterogeneous platforms (Intel and RISC);
+ - Linux, AIX and Windows operating systems;
+ - IBM (Websphere Liberty  MQ Series and IBM Broker), Jboss, Virtualization supported by VMware;
+ - Configuration Management with Puppet;
+ - High availability of containers using Docker and Kubernetes;
+ - Openshift as PaaS solution;
+ - Cloud Platforms (AWS, Azure, IBM Cloud);
+ - Monitoring with Zabbix and Dynatrace.
 
-##### 3.1.5 Cloud Consultant (Red Hat)
+##### 2.1.5 Cloud Consultant (Red Hat)
 2018 - Present<br>
 <br>
 
-### 3.2 Projects 
+### 2.2 Projects 
 
 #### 2016 ( FLEXUS/SP )
 
@@ -92,13 +93,13 @@ This project consists of an Implementation of an OpenShift Origin cluster with a
 This project consists of an implementation of a Kubernetes cluster with four nodes to automatically create the flow of continuous integration and continuous delivery (CI/CD) to the portal of Alelo's commercial establishments (https://meuestabelecimento.alelo.com.br) in the production environment, where there was development of micro services using Java (SpringBoot) and React implementing the concept of SPAs, the environment now has an auto scale for applications, load balancing through BigIP and integration with VSTS.
 
 
-### 3.3 LANGUAGES
+### 2.3 LANGUAGES
 
 Inglês.<br>
 Português - Native.<br>
 
 
-### 3.4 CERTIFICATIONS
+### 2.4 CERTIFICATIONS
 
 ##### Certified PCP 204 (Puppet)<br>
 PCP ID: PCP204-0270<br>
@@ -139,7 +140,7 @@ License from: Linux Foundation (CNCF)
 ##### Certified PSM I - Professional Scrum Master I
 License from: Scrum.org<br>
 
-### 3.5 COURSES
+### 2.5 COURSES
 
 #### 2016
 
@@ -209,7 +210,7 @@ Website: 4linux.com.br<br>
 4Linux Open Software Specialists<br>
 Website: 4linux.com.br<br>
 
-### 3.6 SPEAKER
+### 2.6 SPEAKER
 
 ##### 2017
 
@@ -223,7 +224,7 @@ Local: UniRitter<br>
 The Developers Conference<br>
 Local: Centro de Convenções CentroSul<br>
 
-### 3.8 EVENTS
+### 2.7 EVENTS
 
 ##### 2017
 
