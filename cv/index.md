@@ -15,16 +15,16 @@ I have solid experience in production with container environment using DOCKER, c
 
 ## 2. CURRICULUM
 
-**Edgar da Silva Costa Filho**
+Edgar da Silva Costa Filho
 
-E-mails:
+**E-mails:**
 
 edgarsilva948@gmail.com (main)<br>
 edgarsilva948@icloud.com<br>
 edgarsilva948@outlook.com<br>
 
 
-Social Networks:
+**Social Networks:**
 
 Skype: edgarsilva948<br>
 Twitter: @edgarsilva948<br>
@@ -41,7 +41,7 @@ LinkedIN: http://br.linkedin.com/in/edgarsilva948<br>
  - Participation in the implementation of the PCI domain for DPSP S.A;
  - Participation in the implementation of Vlan's (Cisco) in the internal infrastructure of the company.
 
-##### 2.1.2 Telecommunications Analyst (Flexus Soluções)
+#### 2.1.2 Telecommunications Analyst (Flexus Soluções)
 2016 - 2016<br>
  - Linux Servers PBXIP (CentOS);
  - Managing web applications in PHP from PBX (Elastix, SNEP, Others);
@@ -51,7 +51,7 @@ LinkedIN: http://br.linkedin.com/in/edgarsilva948<br>
  - Monitoring with STG and Zabbix;
  - Working from Pfsense and IPTables firewall. 
 
-##### 2.1.3 Infrastructure Analyst DevOps (4Linux Open Software Specialists)
+#### 2.1.3 Infrastructure Analyst DevOps (4Linux Open Software Specialists)
 2016 - 2017<br>
  - 100% Focused on projects FOSS (Free and Open Source Software);
  - Working with Infrastructure automation projects using Foreman, Ovirt, Puppet, Ansible and GitLab;
@@ -59,7 +59,7 @@ LinkedIN: http://br.linkedin.com/in/edgarsilva948<br>
  - Working with development in Python and NoSQL database (MongoDB);
  - Acting as an instructor, teaching DevOps courses, Linux and various Open Source solutions.
 
-##### 2.1.4 DevOps Engineer (Alelo)
+#### 2.1.4 DevOps Engineer (Alelo)
 2017 - 2018<br>
  - Heterogeneous platforms (Intel and RISC);
  - Linux, AIX and Windows operating systems;
@@ -70,7 +70,7 @@ LinkedIN: http://br.linkedin.com/in/edgarsilva948<br>
  - Cloud Platforms (AWS, Azure, IBM Cloud);
  - Monitoring with Zabbix and Dynatrace.
 
-##### 2.1.5 Cloud Consultant (Red Hat)
+#### 2.1.5 Cloud Consultant (Red Hat)
 2018 - Present<br>
 <br>
 
@@ -101,7 +101,7 @@ Português - Native.<br>
 
 ### 2.4 CERTIFICATIONS
 
-##### Certified PCP 204 (Puppet)<br>
+**Certified PCP 204 (Puppet)**<br>
 PCP ID: PCP204-0270<br>
 Individual recognition: Puppet Certified Professional (PCP)<br>
 Exam Name: System Administration using Puppet<br>
@@ -109,35 +109,35 @@ Credential awarded: Puppet Professional 2016 Certification<br>
 Certification code: PCP<br>
 Date: 13/09/17<br>
 
-##### Certified LPIC-OT DevOps Tools Engineer<br>
+**Certified LPIC-OT DevOps Tools Engineer**<br>
 LPI ID: LPI000342169<br>
 Verification Code: t6mhxnlxnj<br> 
 
-##### Certified LPIC-3 - Mixed Environment (300)<br>
+**Certified LPIC-3 - Mixed Environment (300)**<br>
 LPI ID: LPI000342169<br>
 Verification Code: 9xhyrts8bs<br> 
 
-##### Certified LPIC-2
+**Certified LPIC-2**<br>
 LPI ID: LPI000342169<br>
 Verification code: t34k633zxe<br>
 
-##### Certified LPIC-1
+**Certified LPIC-1**<br>
 LPI ID: LPI000342169<br>
 Verification code: 5k69qztb97<br>
 
-##### Certified Kubernetes Administrator
+**Certified Kubernetes Administrator**<br>
 CKA ID: CKA-1800-0884-0100<br>
-License from: Linux Foundation (CNCF)
+License from: Linux Foundation (CNCF)<br>
 
-##### Certified LFCE
+**Certified LFCE**<br>
 LFCE ID: LFCE-1700-0341-0200<br>
-License from: Linux Foundation (CNCF)
+License from: Linux Foundation (CNCF)<br>
 
-##### Certified LFCSA
+**Certified LFCSA**<br>
 LFCE ID: LFCS-1700-001322-0100<br>
-License from: Linux Foundation (CNCF)
+License from: Linux Foundation (CNCF)<br>
 
-##### Certified PSM I - Professional Scrum Master I
+**Certified PSM I - Professional Scrum Master I**<br>
 License from: Scrum.org<br>
 
 ### 2.5 COURSES
