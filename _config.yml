@@ -1,2 +1,3 @@
 name: For DevOps
 markdown: kramdown
+theme: jekyll-theme-architect
