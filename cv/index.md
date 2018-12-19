@@ -6,8 +6,8 @@ date: 2018-12-19 13:25
 
 ### Table
 
-1. Summary
-3. Curriculum
+Summary
+Curriculum
 
 ### 1. BIO
 
@@ -33,7 +33,7 @@ LinkedIN: http://br.linkedin.com/in/edgarsilva948<br>
 
 ### 2.1 EXPERIENCE
 
-#### 2.1.1 Technical Support (Drogarias Pacheco São Paulo)
+**2.1.1 Technical Support (Drogarias Pacheco São Paulo)**
 2012 - 2016<br>
  - Installation and configuration of internal software of the company;
  - VOIP telephone system;
@@ -41,7 +41,7 @@ LinkedIN: http://br.linkedin.com/in/edgarsilva948<br>
  - Participation in the implementation of the PCI domain for DPSP S.A;
  - Participation in the implementation of Vlan's (Cisco) in the internal infrastructure of the company.
 
-#### 2.1.2 Telecommunications Analyst (Flexus Soluções)
+**2.1.2 Telecommunications Analyst (Flexus Soluções)**
 2016 - 2016<br>
  - Linux Servers PBXIP (CentOS);
  - Managing web applications in PHP from PBX (Elastix, SNEP, Others);
@@ -51,7 +51,7 @@ LinkedIN: http://br.linkedin.com/in/edgarsilva948<br>
  - Monitoring with STG and Zabbix;
  - Working from Pfsense and IPTables firewall. 
 
-#### 2.1.3 Infrastructure Analyst DevOps (4Linux Open Software Specialists)
+**2.1.3 Infrastructure Analyst DevOps (4Linux Open Software Specialists)**
 2016 - 2017<br>
  - 100% Focused on projects FOSS (Free and Open Source Software);
  - Working with Infrastructure automation projects using Foreman, Ovirt, Puppet, Ansible and GitLab;
@@ -59,7 +59,7 @@ LinkedIN: http://br.linkedin.com/in/edgarsilva948<br>
  - Working with development in Python and NoSQL database (MongoDB);
  - Acting as an instructor, teaching DevOps courses, Linux and various Open Source solutions.
 
-#### 2.1.4 DevOps Engineer (Alelo)
+**2.1.4 DevOps Engineer (Alelo)**
 2017 - 2018<br>
  - Heterogeneous platforms (Intel and RISC);
  - Linux, AIX and Windows operating systems;
@@ -70,7 +70,7 @@ LinkedIN: http://br.linkedin.com/in/edgarsilva948<br>
  - Cloud Platforms (AWS, Azure, IBM Cloud);
  - Monitoring with Zabbix and Dynatrace.
 
-#### 2.1.5 Cloud Consultant (Red Hat)
+**2.1.5 Cloud Consultant (Red Hat)**
 2018 - Present<br>
 <br>
 
