@@ -15,7 +15,7 @@ I have solid experience in production with container environment using DOCKER, c
 
 ## 2. CURRICULUM
 
-Edgar da Silva Costa Filho
+**Edgar da Silva Costa Filho**
 
 E-mails:
 
