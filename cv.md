@@ -7,7 +7,7 @@ permalink: /cv/
 ### Table
 
 1) BIO<br>
-2) Curriculum
+2) Curriculum<br>
 
 ### 1. BIO
 
@@ -33,33 +33,10 @@ LinkedIN: http://br.linkedin.com/in/edgarsilva948<br>
 
 ### 2.1 EXPERIENCE
 
-#### 2.1.1 Technical Support (Drogarias Pacheco São Paulo)<br>
-2012 - 2016<br>
- - Installation and configuration of internal software of the company;
- - VOIP telephone system;
- - Management of users in Active Directory (Windows Server 2012 R2);
- - Participation in the implementation of the PCI domain for DPSP S.A;
- - Participation in the implementation of Vlan's (Cisco) in the internal infrastructure of the company.
+#### 2.1.1 Cloud Consultant (Red Hat)<br>
+2018 - Present<br>
 
-#### 2.1.2 Telecommunications Analyst (Flexus Soluções)<br>
-2016 - 2016<br>
- - Linux Servers PBXIP (CentOS);
- - Managing web applications in PHP from PBX (Elastix, SNEP, Others);
- - Apache/Nginx Web servers;
- - MySQL database;
- - Implementation of Xen Server on clients for VMs (PBXIP);
- - Monitoring with STG and Zabbix;
- - Working from Pfsense and IPTables firewall. 
-
-#### 2.1.3 Infrastructure Analyst DevOps (4Linux Open Software Specialists)<br>
-2016 - 2017<br>
- - 100% Focused on projects FOSS (Free and Open Source Software);
- - Working with Infrastructure automation projects using Foreman, Ovirt, Puppet, Ansible and GitLab;
- - Deploying solutions for DevOps environments (Docker, Puppet, Ansible, Git, Jenkins and Rundeck);
- - Working with development in Python and NoSQL database (MongoDB);
- - Acting as an instructor, teaching DevOps courses, Linux and various Open Source solutions.
-
-#### 2.1.4 DevOps Engineer (Alelo)<br>
+#### 2.1.2 DevOps Engineer (Alelo)<br>
 2017 - 2018<br>
  - Heterogeneous platforms (Intel and RISC);
  - Linux, AIX and Windows operating systems;
@@ -68,13 +45,44 @@ LinkedIN: http://br.linkedin.com/in/edgarsilva948<br>
  - High availability of containers using Docker and Kubernetes;
  - Openshift as PaaS solution;
  - Cloud Platforms (AWS, Azure, IBM Cloud);
- - Monitoring with Zabbix and Dynatrace.
+ - Monitoring with Zabbix and Dynatrace.<br>
 
-#### 2.1.5 Cloud Consultant (Red Hat)<br>
-2018 - Present<br>
+#### 2.1.3 Infrastructure Analyst DevOps (4Linux Open Software Specialists)<br>
+2016 - 2017<br>
+ - 100% Focused on projects FOSS (Free and Open Source Software);
+ - Working with Infrastructure automation projects using Foreman, Ovirt, Puppet, Ansible and GitLab;
+ - Deploying solutions for DevOps environments (Docker, Puppet, Ansible, Git, Jenkins and Rundeck);
+ - Working with development in Python and NoSQL database (MongoDB);
+ - Acting as an instructor, teaching DevOps courses, Linux and various Open Source solutions.<br>
+
+#### 2.1.4 Telecommunications Analyst (Flexus Soluções)<br>
+2016 - 2016<br>
+ - Linux Servers PBXIP (CentOS);
+ - Managing web applications in PHP from PBX (Elastix, SNEP, Others);
+ - Apache/Nginx Web servers;
+ - MySQL database;
+ - Implementation of Xen Server on clients for VMs (PBXIP);
+ - Monitoring with STG and Zabbix;
+ - Working from Pfsense and IPTables firewall. <br>
+
+#### 2.1.5 Technical Support (Drogarias Pacheco São Paulo)<br>
+2012 - 2016<br>
+ - Installation and configuration of internal software of the company;
+ - VOIP telephone system;
+ - Management of users in Active Directory (Windows Server 2012 R2);
+ - Participation in the implementation of the PCI domain for DPSP S.A;
+ - Participation in the implementation of Vlan's (Cisco) in the internal infrastructure of the company.
 <br>
 
 ### 2.2 Projects 
+
+#### 2018 ( ALELO/SP )
+
+This project consists of an implementation of a Kubernetes cluster with four nodes to automatically create the flow of continuous integration and continuous delivery (CI/CD) to the portal of Alelo's commercial establishments (https://meuestabelecimento.alelo.com.br) in the production environment, where there was development of micro services using Java (SpringBoot) and React implementing the concept of SPAs, the environment now has an auto scale for applications, load balancing through BigIP and integration with VSTS.
+
+#### 2017 ( 4LINUX/SP )
+
+This project consists of an Implementation of an OpenShift Origin cluster with a master and two nodes in order to automatically deploy and set the flow of continuous integration and continuous delivery so that our SaaS service is ready for production, currently the Environment has an autoscaller for applications and integration with Gitlab.
 
 #### 2016 ( FLEXUS/SP )
 
@@ -83,14 +91,6 @@ Hardening project from the Flexus PBXIP server farm that are CentOS based, to me
 #### 2016 ( LESCHACO/SP )
 
 Implementation of VOIP integration with 130 extensions using OpenSource Asterix software in 3 units in two states of Brazil, using Channel Bank as Gateway FXS/FXO. Xen Server virtualized framework and dedicated optical fiber firewall-redundant link communication from Dell Computers - Apllicance SonicWall.
-
-#### 2017 ( 4LINUX/SP )
-
-This project consists of an Implementation of an OpenShift Origin cluster with a master and two nodes in order to automatically deploy and set the flow of continuous integration and continuous delivery so that our SaaS service is ready for production, currently the Environment has an autoscaller for applications and integration with Gitlab.
-
-#### 2018 ( ALELO/SP )
-
-This project consists of an implementation of a Kubernetes cluster with four nodes to automatically create the flow of continuous integration and continuous delivery (CI/CD) to the portal of Alelo's commercial establishments (https://meuestabelecimento.alelo.com.br) in the production environment, where there was development of micro services using Java (SpringBoot) and React implementing the concept of SPAs, the environment now has an auto scale for applications, load balancing through BigIP and integration with VSTS.
 
 
 ### 2.3 LANGUAGES
